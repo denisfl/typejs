@@ -2,11 +2,11 @@
 var typeJS = {
     settings: {
         name: '.js__type',
-        minWidth: 640,
-        maxWidth: 1200,
+        minWidth: 480,
+        maxWidth: 1400,
         baseFont: 16,
         minFontSize: 12,
-        maxFontSize: 24,
+        maxFontSize: 48,
         fontRatio: 40
     },
     init: function(param) {
